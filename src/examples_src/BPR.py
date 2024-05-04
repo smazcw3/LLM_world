@@ -6,6 +6,7 @@ from sklearn.metrics import roc_auc_score
 from sklearn.preprocessing import normalize
 from sklearn.neighbors import NearestNeighbors
 from scipy.sparse import csr_matrix, dok_matrix
+import sys
 
 class BPR:
     """
