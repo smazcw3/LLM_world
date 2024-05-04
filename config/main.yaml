@@ -1,0 +1,6 @@
+---
+defaults:
+  application: "LLM_world"
+
+raw: 
+  path: "data/raw/sample.csv"
