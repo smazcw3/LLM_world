@@ -8,3 +8,5 @@ Some of the Hugging-face based notebooks are below:
 + `Accessing pre-trained models` -- https://colab.research.google.com/drive/1XxuUY3lV7EtKxxThFcxrp2hpxADnGUWg?usp=sharing
 
 + `How To Use Transformers` -- https://colab.research.google.com/drive/1Rv9xVchNq_YTPZ1OwruTS2-WuG-yxLqa?usp=sharing
+
++ `Working with Datasets` -- https://colab.research.google.com/drive/1Yqn0VIwyoo8ISKJ51KMRvKl-Yq5HufxJ?usp=sharing
