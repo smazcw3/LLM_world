@@ -1,10 +1,17 @@
 [![CodeQL](https://github.com/smazcw3/LLM_world/actions/workflows/codeql.yml/badge.svg)](https://github.com/smazcw3/LLM_world/actions/workflows/codeql.yml)
 
 # LLM_world
-This repository is for researching on Large Language Models. 
+This repository is for researching on Large Language Models (LLM).
+
+Important notes
+---------------
++ Each parameter in an LLM takes up 4 bytes (i.e. it is a 32-bit precision number) just to store the model. 1B parameters will take about 4GB of GPU RAM.
++ GPT-3 has 175B parameters => 700 GB of GPU RAM just to store the model.
++ Converting to 16 bit half precision floating point (FP16) requires 2 bytes per parameter => storage requirements gets halved.  
++ Converting to 8 bit (FP8) requires 1 byte per parameter, however each parameter is an integer => storage requirements gets 1/4.
++ Training a model can use 20 byte/parameter to store it (optimizer states, gradients, activations and any temporary variables).
 
 Some of the Hugging-face based notebooks are below:
-
 
 | Notebook name | Colab links |
 | --- | --- |
