@@ -12,3 +12,5 @@ Some of the Hugging-face based notebooks are below:
 | `How To Use Transformers` | https://colab.research.google.com/drive/1Rv9xVchNq_YTPZ1OwruTS2-WuG-yxLqa?usp=sharing |
 | `Working with Datasets` | https://colab.research.google.com/drive/1Yqn0VIwyoo8ISKJ51KMRvKl-Yq5HufxJ?usp=sharing |
 | `Creating a Tokenizer` | https://colab.research.google.com/drive/1uJUBE2HWrQmfIXnZ9-9X1mYIZY8NjYNa?usp=sharing |
+| `Full Fine Tuning for Summarization` | https://colab.research.google.com/drive/1QhkLc4UQ0t0_y3nk3eSVoUQ-99_Tiv_I?usp=sharing |
+| `PEFT_For_Summarization` | https://colab.research.google.com/drive/1dBrN3BSFoKBY_nqqDd9dQCLr2CKz3A7w?usp=sharing |
