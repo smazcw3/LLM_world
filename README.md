@@ -26,3 +26,4 @@ Some of the Hugging-face based notebooks are below:
 | `Full Fine Tuning for Summarization` | https://colab.research.google.com/drive/1QhkLc4UQ0t0_y3nk3eSVoUQ-99_Tiv_I?usp=sharing |
 | `PEFT_For_Summarization` | https://colab.research.google.com/drive/1dBrN3BSFoKBY_nqqDd9dQCLr2CKz3A7w?usp=sharing |
 | `Quantizing Models`| https://colab.research.google.com/drive/1L8p5CWxCaDfjC7XMCQVf9ZUzpUxv6yKa?usp=sharing |
+| `Image to text`| https://colab.research.google.com/drive/1WEeNh0vZ2QZvH-ywhO9w3LV_usf5oB62?usp=sharing |
