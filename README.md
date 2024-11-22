@@ -15,7 +15,7 @@ Important notes
 come as 32-bit floating point numbers. This means for each weight parameter in the model it takes up 4 bytes of memory. To load in a 7B parameter model, we will need 28GB of space.
 
 
-Some of the Hugging-face based notebooks are below:
+Some of the Hugging-face based notebooks (with Google Colab links) are below:
 
 | Notebook name | Colab links |
 | --- | --- |
